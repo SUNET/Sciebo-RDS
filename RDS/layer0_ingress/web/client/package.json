@@ -19,7 +19,7 @@
     "localize-compile": "yarn workspace @rds/codebase run localize-compile"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "core-js": "^3.6.5",
     "dotenv-webpack": "^6.0.4",
     "socket.io-client": "^3.1.1",
